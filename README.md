@@ -1,10 +1,10 @@
- #Airline Accidents
+ <h1>Airline Accidents</h1>
 
-<h1>Abstract:</h1> 
+<h2>Abstract:</h2>
 <p>To analyze data that contain all airline accidents within the united states.
 The aim of this analysis is to identify the most dangerous times and places to travel</p> 
 
-<h1>Method:</h1>
+<h2>Method:</h2>
 <p>The data is located in AvationData.txt. The analysis of the data is located
 in AviationAccidents.ipynb. The original text file has information on the type of plane, location, type/severity of accident, time of accident, etc...
 </p>
@@ -16,7 +16,7 @@ more accidents than the lighter colored states. The dataframe used for the bargr
 contain deadly accidents and serious injuries. The bar graph counts this filtered data per month.
 </p>
  
- <h1>Discussion:</h1>
+ <h2>Discussion:</h2>
  <h3>Color Coded Map</h3>
  <p> The color coded map ranges from white to orange, displaying the full spectrum 
      of incident frequency. By far the 3 most aviation accidents occur in California Texas and Florida, with counts in the high 50's and 60's. 
